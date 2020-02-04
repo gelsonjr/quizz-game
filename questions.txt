@@ -1,0 +1,70 @@
+1. A byte is made up of eight
+CPUs
+addresses
+variables
+bits
+D
+100
+2. This key word is used to declare a named constant
+constant
+namedConstant
+final
+concrete
+C
+100
+3. You can use this class to display dialog boxes
+JOptionPane
+BufferedReader
+InputStreamReader
+DialogBox
+A
+100
+4. The if statement is an example of a ___________
+sequence structure
+decision structure
+pathway structure
+class structure
+B
+100
+5. This type of expression has a value of either true or false
+binary expression
+decision expression
+unconditional expression
+boolean expression
+D
+100
+6. What is each repetition of a loop known as?
+cycle
+revolution
+orbit
+iteration
+D
+100
+7. This type of loop always executes at least once
+while
+do - while
+for
+any of these
+B
+100
+8. This type of method does not return a value
+null
+void
+empty
+anonymous
+B
+100
+9. The first subscript in an array is always ___________
+1
+0
+-1
+1 less than the number of elements
+B
+100
+10. The last subscript in an array is always __________
+100
+0
+-1
+1 less than the number of elements
+D
+100
